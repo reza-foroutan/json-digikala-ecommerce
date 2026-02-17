@@ -7,6 +7,13 @@
     "slug": "/",
     "link": "/"
   },
+  "logoHeaderMiddle": {
+    "id": 1,
+    "imageLogo": "",
+    "imageAlt": "لوگوی دیجیکالا",
+    "slug": "/",
+    "link": "/"
+  },
 
   "categories_site": [
     {
