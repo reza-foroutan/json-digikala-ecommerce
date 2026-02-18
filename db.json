@@ -1,7 +1,7 @@
 {
   "bannerHeaderTopAd": {
     "id": 1,
-    "ImageBannerAd": "../../../src/assets/images/header/header-top/adservice-banners/black-friday-tabdeal.gif",
+    "ImageBannerAd": "https://nexuhaven-statics-public.nexuhaven.com/digikala-ecommerce-final-project-reactjs/assets/images/header/header-top/adservice-banners/black-friday-tabdeal.gif",
     "imageAlt": "بنر تبلیغاتی",
     "imageTitle": "بنر تبلیغاتی",
     "slug": "/",
